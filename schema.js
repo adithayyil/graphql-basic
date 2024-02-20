@@ -18,6 +18,7 @@ const schema = buildSchema(`
 
     type Store {
         store: String
+        
     }
 
     input StoreInput {
